@@ -5,6 +5,8 @@ const quotes = require("./card.json");
 const noteRouter = require('./routes/noteroutes');
 const useRouter = require('./routes/userroutes');
 
+app.use(express.json());
+
 const mongoose = require("mongoose");
 
 mongoose.connect("mongodb+srv://siddharth:14Feb1999@cluster0.jqzcng9.mongodb.net/?retryWrites=true&w=majority")
@@ -39,6 +41,6 @@ app.get("/",(req,res)=>{
 // })
 
 
-app.listen(5000, ()=>(
-    console.log("Server Started on port no. 5000")
-));
+// app.listen(5000, ()=>(
+//     console.log("Server Started on port no. 5000")
+// ));
