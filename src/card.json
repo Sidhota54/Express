@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "img":"https://www.netguru.com/hs-fs/hubfs/Bespoke_Hero_Background-3.jpg?width=768&height=404&name=Bespoke_Hero_Background-3.jpg",
+        "header":"No-Code Development: Celebrating Software Pioneers Utilizing an Award-Winning Website Built With No Coding",
+        "paragraph":"Hidden Heroes is a publishing initiative with a content hub at its core, built with few resources thanks to leveraging the no-code platform, Webflow. It hosts touching stories by a legendary writer, S..."
+    },
+    {
+        "id": 2,
+        "img":"https://www.netguru.com/hs-fs/hubfs/cover%20-%20Meet%20Zeller%20copy.png?width=768&height=404&name=cover%20-%20Meet%20Zeller%20copy.png",
+        "header":"Web Development & Product Design: Helping Zeller to Reimagine Business Banking for Australian SMEs",
+        "paragraph":"Netguru partnered with Zeller to deliver a dedicated extension to their internal product and engineering teams. Zeller’s initial 12-month launch timeline meant that Netguru’s team were called upon to ..."
+    },
+    {
+        "id": 3,
+        "img":"https://www.netguru.com/hs-fs/hubfs/Zabka%20header-2.jpg?width=768&height=404&name=Zabka%20header-2.jpg",
+        "header":"Cloud & Backend Development : System Architecture for the Largest Chain of Autonomous Stores ",
+        "paragraph":"Żabka partnered with Netguru to launch a chain of fully autonomous stores. Our role was to plan, design, implement, and maintain the entire system architecture for the autonomous stores. The system wa..."
+    },
+    {
+        "id": 4,
+        "img":"https://www.netguru.com/hs-fs/hubfs/Bespoke_Hero_Background-2-1.jpg?width=768&height=404&name=Bespoke_Hero_Background-2-1.jpg",
+        "header":"Landing Page & Web App Development: Building a Fundraising Tool to Help The Vulnerable",
+        "paragraph":"The COVID-19 pandemic has affected the lives of many people, but since the beginning of the crisis elderly folk have been among the most vulnerable."
+
+    },
+    {
+        "id": 5,
+        "img":"https://www.netguru.com/hs-fs/hubfs/Foodetective%20header-1.jpg?width=768&height=404&name=Foodetective%20header-1.jpg",
+        "header":"Full Stack Web Development & UX / UI Design: Foodetective, the Holy Grail for Restaurants and Foodies",
+        "paragraph":"Foodetective is a global foodie community that connects users to the best dining spots in their proximity. The goal of the project was to build two intertwined products: a platform with honest and tru..."
+    },
+    {
+        "id": 6,
+        "img":"https://www.netguru.com/hs-fs/hubfs/Bespoke_Hero_Background%20(1)-1.jpg?width=768&height=404&name=Bespoke_Hero_Background%20(1)-1.jpg",
+        "header":"Product Design, Consulting & Web Development: A Digital Platform With a Global Community of Change Makers",
+        "paragraph":"Vital Voices seek out creative leaders, women with a vision, and those who’ve already proven themselves through local ventures. They partner with these women to amplify their impact and cause positive..."
+    },
+    {
+        "id": 7,
+        "img":"https://www.netguru.com/hs-fs/hubfs/_N19%20Modules/N19%20Bespoke%20Case%20Studies/Solarisbank/solarisbank%20on%20a%20laptop%20.jpeg?width=768&height=404&name=solarisbank%20on%20a%20laptop%20.jpeg",
+        "header":"Backend Development: Powering a European Fintech Leader",
+        "paragraph":" Solarisbank is a Banking-as-a-Service platform. A fully customizable and secure API is crucial for Solarisbank to offer their services. Netguru supported the client so that third parties can use full ...        "
+    },
+    {
+        "id": 8,
+        "img":"https://www.netguru.com/hubfs/_N19%20Modules/N19%20Bespoke%20Case%20Studies/Moonfare/moonfare%203.webp",
+        "header":"Full Stack Development & Product Design: A Fintech Platform that Revolutionizes Private Equity",
+        "paragraph":" Moonfare, a Berlin-based FinTech startup is building a technology platform that allows individual investors to invest in top-tier funds with low minimums (starting at €50,000). Netguru supported the c..."
+    }
+]
