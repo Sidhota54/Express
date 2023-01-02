@@ -6,6 +6,10 @@ const noteRouter = require('./routes/noteroutes');
 const useRouter = require('./routes/userroutes');
 
 app.use(express.json());
+app.use((req,res,next)=>{
+    console.log(" Http Methods : "+req.method +  " , URL :" +req.url);
+    next();
+});
 
 const mongoose = require("mongoose");
 
